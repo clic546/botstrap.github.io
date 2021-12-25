@@ -1,0 +1,15 @@
+.container, .container1, .container2 {
+    border: 2px solid rgb(82, 82, 82);
+    background: rgb(180, 180, 180);
+    font-size: 30px;
+    
+}
+.col, .col-6, .col-sm {
+    border: 2px solid rgb(82, 82, 82);
+}
+.container1 {
+    margin-top: 30px;
+}
+.container2 {
+    margin-top: 60px;
+}
